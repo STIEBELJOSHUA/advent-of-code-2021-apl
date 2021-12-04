@@ -1,2 +1,4 @@
 # advent-of-code-2021-apl
-My advent of code solutions for 2021, written in dyalog apl!
+Sorry if my solutions are so bad, I have never used apl in my life before this. 
+ 
+
